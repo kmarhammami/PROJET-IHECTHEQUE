@@ -1,0 +1,472 @@
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe.config
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.pdb
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.AssemblyReference.cache
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormAccueil.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceEtudiant.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormLogin.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormSignup.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.Properties.Resources.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAccueilEtudiant.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntsEtudiant.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCFavorisEtudiant.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresDisponibles.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotifications.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatistiquesEtudiant.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.GenerateResource.cache
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.CoreCompileInputs.cache
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.exe
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.pdb
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.xml
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.Up2Date
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceAdmin.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBordAdmin.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceBiblio.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBordBIB.resources
+C:\PROJET PG EVENT IHECTHEQUE\IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEVENTADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe.config
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.pdb
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.xml
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.AssemblyReference.cache
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormAccueil.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceAdmin.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceBiblio.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormLogin.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormSignup.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.Properties.Resources.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAccueilEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntsEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEVENTADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCFavorisEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutLivreBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionLivreBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionUtilisateurBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresDisponiblesEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotificationsEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotifMessBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCParamétresADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatistiquesEtudiant.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBoardBIB.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBordADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCutilisateursADMIN.resources
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.GenerateResource.cache
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.CoreCompileInputs.cache
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.Up2Date
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.exe
+C:\IHECTHEQUE KHDIJA\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.pdb
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe.config
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.pdb
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.xml
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.AssemblyReference.cache
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormAccueil.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceAdmin.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceBiblio.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormLogin.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormSignup.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.Properties.Resources.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAccueilEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntsEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEVENTADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCFavorisEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutLivreBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionLivreBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionUtilisateurBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresDisponiblesEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotificationsEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotifMessBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCParamétresADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatistiquesEtudiant.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBoardBIB.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBordADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCutilisateursADMIN.resources
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.GenerateResource.cache
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.CoreCompileInputs.cache
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.Up2Date
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.exe
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.pdb
+C:\Users\mohamed\Desktop\hj\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe.config
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.exe
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\IHECTHEQUE.pdb
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Core.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Azure.Identity.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Options.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Buffers.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ClientModel.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Memory.Data.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.AccessControl.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Security.Principal.Windows.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Text.Json.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\System.ValueTuple.xml
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.AssemblyReference.cache
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormAccueil.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceAdmin.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceBiblio.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormEspaceEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormLogin.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.FormSignup.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.Properties.Resources.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAccueilEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutUtilisateurADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEmpruntsEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCEVENTADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCFavorisEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCAjoutLivreBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionLivreBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCGestionUtilisateurBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCLivresDisponiblesEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotificationsEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCNotifMessBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCParamétresADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCStatistiquesEtudiant.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBoardBIB.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCTableauDeBordADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.UCutilisateursADMIN.resources
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.GenerateResource.cache
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.CoreCompileInputs.cache
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.csproj.Up2Date
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.exe
+C:\PROJET IHEC BIB\PROJET IHECTHEQUE\PROJET IHECTHEQUE\IHECTHEQUE\obj\Debug\IHECTHEQUE.pdb
